@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897611472624",
+    "project_id": "dare-c6ee0",
+    "storage_bucket": "dare-c6ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897611472624:android:4611b23660437852852c35",
+        "android_client_info": {
+          "package_name": "com.pedro.rtpstreamer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897611472624-8b7j77rk3p5668f0qhuenbdvaujtgm5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcId62BfU7-vxuA8JeqzIiVhhym57fNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897611472624-8b7j77rk3p5668f0qhuenbdvaujtgm5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
